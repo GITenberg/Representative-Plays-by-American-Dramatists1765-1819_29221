@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4192
 description: This e-book only contains the front matter. The individual plays are
   linked to from this book's table of contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29221#Representative-Plays-by-American-Dramatists1765-1819
 gutenberg_issued: '2009-06-26'
 gutenberg_type: Text
 identifiers:
